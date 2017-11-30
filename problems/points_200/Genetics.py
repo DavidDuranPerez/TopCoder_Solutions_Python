@@ -1,12 +1,3 @@
-def main():
-    # Create the object
-    objClass=Genetics()
-
-    # Call the main method
-    print(objClass.getOffspring("MGskgzTFQoclnDjZu","mgSKGzTFQoClnDJzU","DDDDDRDDDDRDDDDDD"))
-
-
-# Main class
 class Genetics():
     # Constructor
     def __init__(self):
@@ -40,8 +31,3 @@ class Genetics():
 
         # Return the offspring
         return offspring
-
-
-# Call to the main
-main()
-

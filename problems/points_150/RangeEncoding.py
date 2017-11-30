@@ -1,15 +1,3 @@
-def main():
-    # Array in an increasing order always
-    arr=[2,4,5,6,8,9,10,11,12,15]
-
-    # Create the object
-    obj_class = RangeEncoding()
-
-    # Call the main method
-    numRanges=obj_class.minRanges(arr)
-    print(numRanges)
-
-
 # Main class
 class RangeEncoding():
     # Constructor
@@ -31,7 +19,4 @@ class RangeEncoding():
 
         return numRanges
 
-
-# Call to the main
-main()
 

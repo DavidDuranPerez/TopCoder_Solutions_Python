@@ -6,7 +6,6 @@ python:
 # Coverage
 before_install:
   - pip install pytest-cov
-  - cd python
 
 # command to install dependencies
 install:

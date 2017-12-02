@@ -1,6 +1,14 @@
 TopCoder Solutions (Python)
 ==============================
 
+.. image:: https://travis-ci.org/DavidDuranPerez/TopCoder_Solutions_Python.svg?branch=master
+   :alt: TopCoder_Solutions_Python build status on Travis CI
+   :target: https://travis-ci.org/DavidDuranPerez/TopCoder_Solutions_Python
+   
+.. image:: https://codecov.io/gh/DavidDuranPerez/TopCoder_Solutions_Python/branch/master/graph/badge.svg
+   :alt: TopCoder_Solutions_Python code coverage on Codecov
+   :target: https://codecov.io/gh/DavidDuranPerez/TopCoder_Solutions_Python
+   
 This repository provides the solutions to some of the problems that can be found in https://www.topcoder.com.
 
 .. contents:: Contents:

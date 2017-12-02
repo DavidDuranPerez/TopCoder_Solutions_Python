@@ -6,6 +6,7 @@ python:
 # Coverage
 before_install:
   - pip install pytest-cov
+  - pip install codecov
 
 # command to install dependencies
 install:
@@ -15,3 +16,4 @@ install:
 script:
   #- python test/points_150/RangeEncodingTest.py
   - pytest -v --cov=problems
+  - codecov

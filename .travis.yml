@@ -1,7 +1,7 @@
 language: python
 python:
   - "3.6"
-  - "nightly"
+  #- "nightly"
 
 # Coverage
 before_install:
@@ -13,5 +13,5 @@ install:
 
 # command to run tests
 script:
-  - python test/points_150/RangeEncodingTest.py
-  #- pytest -v --cov=maths
+  #- python test/points_150/RangeEncodingTest.py
+  - pytest -v --cov=maths

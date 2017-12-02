@@ -13,4 +13,5 @@ install:
 
 # command to run tests
 script:
-  - pytest -v --cov=maths
+  - python test/points_150/RangeEncodingTest.py
+  #- pytest -v --cov=maths

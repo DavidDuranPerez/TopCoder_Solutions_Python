@@ -1,11 +1,3 @@
-def main():
-    # Create the object
-    objClass=FolderSize()
-
-    # Call the main method
-    print(objClass.calculateWaste(("0 123", "2 456", "4 789", "6 012", "8 345"), 10, 98))
-
-
 # Main class
 class FolderSize():
     # Constructor

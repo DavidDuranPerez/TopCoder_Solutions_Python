@@ -1,2 +1,3 @@
-Genetics -> 141.80/200
-ChessboardPattern -> 157.66/200
+Genetics -> 141.80/200 (easy)
+ChessboardPattern -> 157.66/200 (easy)
+FolderSize -> 131.37/200 (medium)
